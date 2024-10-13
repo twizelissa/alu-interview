@@ -1,4 +1,4 @@
-#!/usr/var/python3
+#!/usr/bin/python3
 def pascal_triangle(n):
     """
     Generate and print Pascal's triangle in a right triangle format up to the nth row.
